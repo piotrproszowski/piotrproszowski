@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I started my career in sales, but in February 2021, I decided to follow my heart and become a programmer. Through persistence, I achieved this goal in July 2022.
+However, this is not the end of my journey - I've got a simple plan:
+Back-end Dev [Node.js] -> Full-Stack Dev [React.js + Node.js] + DevOps -> AI Engineer
 <!--
 **piotrproszowski/piotrproszowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
