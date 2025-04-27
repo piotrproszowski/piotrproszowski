@@ -5,7 +5,7 @@ Through persistence, I achieved this goal in July 2022.
 
 However, this is not the end of my journey - I've got a simple plan:
 
-Back-end Dev [Node.js] -> Full-Stack Dev [React.js + Node.js] + DevOps -> AI Engineer
+Back-end Dev -> Full-Stack Dev + DevOps -> AI Engineer
 <!--
 **piotrproszowski/piotrproszowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
