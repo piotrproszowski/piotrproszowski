@@ -1,22 +1,28 @@
-## Hi there 👋
+# Piotr Proszowski
 
-I started my career in sales, but in February 2021, I decided to follow my heart and become a programmer. 
-Through persistence, I achieved this goal in July 2022.
+Full‑Stack E‑commerce Developer · PHP (PrestaShop, WordPress/WooCommerce) · Node.js/TypeScript · AI‑Driven Engineer · Ex‑Sales  
+Building solutions that drive sales.
 
-However, this is not the end of my journey - I've got a simple plan:
+---
 
-Back-end Dev -> AI Engineer
-<!--
-**piotrproszowski/piotrproszowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Snapshot
 
-Here are some ideas to get you started:
+<!-- GitHub Stats (dynamic images) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piotrproszowski&show_icons=true&hide_title=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrproszowski&layout=compact&langs_count=10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=piotrproszowski)
+
+---
+
+## About
+
+I build e‑commerce modules, integrations, and backends in **PHP (PrestaShop, WordPress/WooCommerce)** and **Node.js/TypeScript**.  
+I focus on business outcomes: automation, performance, reliability, and clean integrations.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/piotrproszowski
