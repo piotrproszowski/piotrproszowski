@@ -1,6 +1,6 @@
 # Piotr Proszowski
 
-Full‑Stack E‑commerce Developer · PHP (PrestaShop, WordPress/WooCommerce) · Node.js/TypeScript · AI‑Driven Engineer · Ex‑Sales  
+Node.js/TypeScript · AI‑Driven Engineer · Ex‑Sales  
 Building solutions that drive sales.
 
 ---
