@@ -7,7 +7,7 @@ Building solutions that drive sales.
 
 ## About
 
-I build e‑commerce modules, integrations, and backends in **PHP (PrestaShop, WordPress/WooCommerce)** and **Node.js/TypeScript**.  
+I build in**Node.js/TypeScript**.  
 I focus on business outcomes: automation, performance, reliability, and clean integrations.
 
 ---
